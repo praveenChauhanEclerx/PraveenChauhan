@@ -1,8 +1,8 @@
 [
-    {"area": "central ", "value": 18000},
-    {"area": "Riverside ", "value": 17000},
-    {"area": "Picton ", "value": 80000},
-    {"area": "Everton ", "value": 55000},
-    {"area": "Kensington ", "value": 100000},
-    {"area": "Kirkdale", "value": 50000}
+    {"area": "Jan 20 ", "value": 180},
+    {"area": "Feb 20 ", "value": 170},
+    {"area": "Mar 20 ", "value": 800},
+    {"area": "Apr 20 ", "value": 550},
+    {"area": "May 20 ", "value": 100},
+    {"area": "Jun 20", "value": 500}
 ]
